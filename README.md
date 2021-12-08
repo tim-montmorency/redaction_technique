@@ -4,7 +4,7 @@
 Documentation concertnant la redaction technique publications médiatique en markdown versionné via git
 ## Introduction 
 ### écriture en markdown
-* [Markdown-Cheatsheet par adam-p sur github]https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#h3
+* [Markdown-Cheatsheet par adam-p sur github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#h3)
 
 ### README.md
 Document textuel informant sur le contenu d'un dossier source ouverte versionné. 
