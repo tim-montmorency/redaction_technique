@@ -2,6 +2,9 @@
 
 # redaction_technique
 Documentation concertnant la redaction technique publications médiatique en markdown versionné via git
+## Introduction 
+### écriture en markdown
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#h3
 
 ## Document Markdown 
 
